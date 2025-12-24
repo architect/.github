@@ -8,10 +8,9 @@
 <p align="center">
   <a href="https://arc.codes">Documentation</a> |
   <a href="https://discord.com/invite/y5A2eTsCRX">Discord</a> |
-  <a href="https://arc.codes/docs/en/get-started/quickstart">Get started</a> |
-  <a href="https://github.com/architect/plugins">Plugins</a>
+  <a href="https://arc.codes/docs/en/get-started/quickstart">Get started</a>
 </p>
 
 <p align="center">
-  The simplest, most powerful way to build <a href="https://fwa.dev">Functional Web Applications</a>
+  The simplest, most powerful way to build functional web applications
 </p>
